@@ -1,0 +1,36 @@
+# Visual Studio
+.vs/
+Debug/
+Release/
+x64/
+Win32/
+ipch/
+
+# Archivos de compilación
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.tlog
+*.lastbuildstate
+*.idb
+*.ipdb
+*.iobj
+
+# Configuración local
+*.user
+*.suo
+*.VC.db
+*.opendb
+
+# Binarios generados
+*.dll
+*.exe
+
+# Archivos temporales
+*.tmp
+*.log
+
+# Carpeta intermedia de compilación
+WoW335aM.*/
