@@ -1,4 +1,5 @@
 # WoW 3.3.5a Proxy Multidioma
+**Español** | [English](README_EN.md)
 
 DLL proxy `dinput8.dll` que permite utilizar varios locales personalizados con un único `Wow.exe` de WoW 3.3.5a.
 
