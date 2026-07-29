@@ -1,4 +1,5 @@
 # WoW 3.3.5a Multi-Locale Proxy
+[Español](README.md) | **English**
 
 A `dinput8.dll` proxy that allows multiple custom locales to be used with a single WoW 3.3.5a `Wow.exe`.
 
